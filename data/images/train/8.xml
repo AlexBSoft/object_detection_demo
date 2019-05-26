@@ -1,26 +1,26 @@
 <annotation>
-	<folder>putin</folder>
-	<filename>0317192146091dp.jpg</filename>
-	<path>D:\prog\labelimg\putin\0317192146091dp.jpg</path>
+	<folder>images</folder>
+	<filename>8.jpg</filename>
+	<path>D:\prog\ML\object_detection_demo\data\images\8.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>960</width>
-		<height>592</height>
+		<width>800</width>
+		<height>600</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Putin</name>
+		<name>putin</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>268</xmin>
-			<ymin>31</ymin>
-			<xmax>643</xmax>
-			<ymax>518</ymax>
+			<xmin>518</xmin>
+			<ymin>145</ymin>
+			<xmax>672</xmax>
+			<ymax>380</ymax>
 		</bndbox>
 	</object>
 </annotation>

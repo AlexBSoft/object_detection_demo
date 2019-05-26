@@ -1,26 +1,26 @@
 <annotation>
-	<folder>putin</folder>
-	<filename>vladimir_putin_poprosil_rustema_hamitova_pomoch_radiyu_habirovu_image_5ce78b2061c771.19592279.jpg</filename>
-	<path>D:\prog\labelimg\putin\vladimir_putin_poprosil_rustema_hamitova_pomoch_radiyu_habirovu_image_5ce78b2061c771.19592279.jpg</path>
+	<folder>images</folder>
+	<filename>11.jpg</filename>
+	<path>D:\prog\ML\object_detection_demo\data\images\11.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>701</width>
-		<height>456</height>
+		<width>800</width>
+		<height>600</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Putin</name>
+		<name>putin</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>312</xmin>
-			<ymin>27</ymin>
-			<xmax>474</xmax>
-			<ymax>235</ymax>
+			<xmin>377</xmin>
+			<ymin>48</ymin>
+			<xmax>497</xmax>
+			<ymax>252</ymax>
 		</bndbox>
 	</object>
 </annotation>
