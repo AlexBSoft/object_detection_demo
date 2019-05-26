@@ -6,33 +6,21 @@
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>800</width>
-		<height>600</height>
+		<width>864</width>
+		<height>1152</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>trump</name>
+		<name>gamepad</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>108</xmin>
-			<ymin>6</ymin>
-			<xmax>312</xmax>
-			<ymax>231</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>putin</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>513</xmin>
-			<ymin>67</ymin>
-			<xmax>666</xmax>
-			<ymax>272</ymax>
+			<xmin>24</xmin>
+			<ymin>196</ymin>
+			<xmax>742</xmax>
+			<ymax>717</ymax>
 		</bndbox>
 	</object>
 </annotation>
