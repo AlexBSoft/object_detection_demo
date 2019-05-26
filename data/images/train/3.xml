@@ -12,15 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
+		<name>trump</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>6</ymin>
+			<xmax>312</xmax>
+			<ymax>231</ymax>
+		</bndbox>
+	</object>
+	<object>
 		<name>putin</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>306</xmin>
-			<ymin>22</ymin>
-			<xmax>465</xmax>
-			<ymax>294</ymax>
+			<xmin>513</xmin>
+			<ymin>67</ymin>
+			<xmax>666</xmax>
+			<ymax>272</ymax>
 		</bndbox>
 	</object>
 </annotation>
